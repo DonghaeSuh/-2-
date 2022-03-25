@@ -10,6 +10,10 @@
 data_in
 *data_in*
 
+# data_out
+data_out
+*data_out*
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
