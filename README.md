@@ -7,3 +7,4 @@
   #### 3. 1_NLP_intro : EDA(탐험적 데이터 분석)과 간단한 텍스트 유사도 모델 구현(DENSE 사용)
   #### 4. 2_NLP_basic : Tokenizer와 one-hot encoding 
   #### 5. 3_Tools : Library(pandas,numpy,matplotlib,re,beautifulsoup),Tokenizer,sklearn,tensorflow_keras
+#### 6. 4_Text_Classification : 텍스트 유사도
