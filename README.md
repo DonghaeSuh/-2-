@@ -8,5 +8,5 @@
   #### 2_NLP_basic : Tokenizer와 one-hot encoding 
   #### 3_Tools : Library(pandas,numpy,matplotlib,re,beautifulsoup),Tokenizer,sklearn,tensorflow_keras
 #### 4_Text_Classification : 텍스트 분류
-#### 5_Text_Classification : 텍스트 유사도
+#### 5_Text_Similarity: 텍스트 유사도
 #### 6_ChatBot : 챗봇 (바나나우 어텐션(Bahdanau attention), 트랜스포머(transformer))
