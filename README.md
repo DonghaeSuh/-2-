@@ -1,5 +1,5 @@
 # NLP_Tensorflow2
----
+--
 Tensorflow 2로 구현된 NLP 프로젝트 repositoy
 
 
